@@ -1,0 +1,10 @@
+mx/ipn/cic/geo/login_fragment/MainActivity.java
+ mx.ipn.cic.geo.login_fragment.MainActivity
+mx/ipn/cic/geo/login_fragment/FirstFragment.java
+ mx.ipn.cic.geo.login_fragment.FirstFragment
+ mx.ipn.cic.geo.login_fragment.FirstFragment$1
+mx/ipn/cic/geo/login_fragment/BuildConfig.java
+ mx.ipn.cic.geo.login_fragment.BuildConfig
+mx/ipn/cic/geo/login_fragment/SecondFragment.java
+ mx.ipn.cic.geo.login_fragment.SecondFragment
+ mx.ipn.cic.geo.login_fragment.SecondFragment$1
